@@ -1,4 +1,4 @@
-# Data-Mining-Association-Analysis
+# Data Mining: Association Analysis
 
 In this assignment, we were asked to implement Apriori algorithm that discovers a collection of frequent itemsets from a transaction database.
 
