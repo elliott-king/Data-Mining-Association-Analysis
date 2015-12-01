@@ -1,0 +1,17 @@
+L1: 
+{Eggs}
+{Key-chain}
+{Mango}
+{Onion}
+{Yo-yo}
+
+L2: 
+{Eggs, Key-chain}
+{Eggs, Onion}
+{Key-chain, Mango}
+{Key-chain, Onion}
+{Key-chain, Yo-yo}
+{Mango, Onion}
+
+L3: 
+{Eggs, Key-chain, Onion}

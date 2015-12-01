@@ -1,0 +1,87 @@
+L1: 
+{gene_1  }
+{gene_3  }
+{gene_4  }
+{gene_5  }
+{gene_6  }
+{gene_8  }
+{gene_9  }
+{gene_12 }
+{gene_14 }
+{gene_17 }
+{gene_21 }
+{gene_22 }
+{gene_23 }
+{gene_25 }
+{gene_26 }
+{gene_27 }
+{gene_31 }
+{gene_36 }
+{gene_37 }
+{gene_39 }
+{gene_43 }
+{gene_45 }
+{gene_47 }
+{gene_48 }
+{gene_50 }
+{gene_53 }
+{gene_54 }
+{gene_55 }
+{gene_56 }
+{gene_59 }
+{gene_60 }
+{gene_63 }
+{gene_64 }
+{gene_66 }
+{gene_67 }
+{gene_71 }
+{gene_72 }
+{gene_75 }
+{gene_77 }
+{gene_78 }
+{gene_81 }
+{gene_83 }
+{gene_84 }
+{gene_87 }
+{gene_89 }
+{gene_90 }
+{gene_91 }
+{gene_93 }
+{gene_94 }
+{gene_98 }
+{gene_99 }
+
+L2: 
+{gene_1  , gene_3  }
+{gene_1  , gene_5  }
+{gene_1  , gene_6  }
+{gene_1  , gene_8  }
+{gene_1  , gene_21 }
+{gene_1  , gene_47 }
+{gene_1  , gene_54 }
+{gene_1  , gene_59 }
+{gene_1  , gene_67 }
+{gene_1  , gene_72 }
+{gene_1  , gene_81 }
+{gene_1  , gene_84 }
+{gene_1  , gene_87 }
+{gene_1  , gene_89 }
+{gene_1  , gene_91 }
+{gene_1  , gene_94 }
+{gene_3  , gene_5  }
+{gene_3  , gene_47 }
+{gene_3  , gene_59 }
+{gene_3  , gene_72 }
+{gene_5  , gene_6  }
+{gene_5  , gene_47 }
+{gene_5  , gene_59 }
+{gene_5  , gene_72 }
+{gene_5  , gene_87 }
+{gene_5  , gene_91 }
+{gene_6  , gene_59 }
+{gene_59 , gene_72 }
+{gene_59 , gene_87 }
+
+L3: 
+{gene_1  , gene_3  , gene_5  }
+{gene_1  , gene_59 , gene_72 }

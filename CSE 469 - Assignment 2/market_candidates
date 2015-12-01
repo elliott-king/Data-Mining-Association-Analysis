@@ -1,0 +1,15 @@
+C2: 
+{Eggs, Key-chain}
+{Eggs, Mango}
+{Eggs, Onion}
+{Eggs, Yo-yo}
+{Key-chain, Mango}
+{Key-chain, Onion}
+{Key-chain, Yo-yo}
+{Mango, Onion}
+{Mango, Yo-yo}
+{Onion, Yo-yo}
+
+C3: 
+{Eggs, Key-chain, Onion}
+{Key-chain, Mango, Onion}
